@@ -12,7 +12,7 @@ Proyek ini merupakan bagian dari penugasan mata kuliah yang berfokus pada teknik
 | **NIM** | **5220411019** |
 | **Tugas Wajib** | Scraping data dari internet dan Melakukan **Case Folding** pada teks. |
 | **Topik Data** | Sentimen publik terhadap kata kunci **"Kilang Minyak"** dalam bahasa **Indonesia**. |
-| **Jumlah Data** | Minimal **"1000"** baris data.                                        |
+| **Jumlah Data** | Minimal **"2000"** baris data.                                        |
 
 ---
 
@@ -24,7 +24,6 @@ Proyek ini memanfaatkan beberapa alat utama untuk setiap tahapan proses:
 | :------------------------------ | :---------------------------------------------------------- |
 | **Pengambilan Data (Scraping)** | `tweet-harvest` (versi 2.6.1)                               |
 | **Pemrosesan Data** | `Pandas`                                                    |
-| **Analisis Sentimen** | **VADER** (Valence Aware Dictionary and sEntiment Reasoner) |
 | **Visualisasi Hasil** | `Seaborn` dan `Matplotlib`                                  |
 
 ---
